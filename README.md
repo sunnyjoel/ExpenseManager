@@ -1,2 +1,3 @@
 # ExpenseManager
-expense manager using android studio 
+
+expense manager using Android studio.
